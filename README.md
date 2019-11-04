@@ -4,9 +4,9 @@ Move the Rover based on provided signals
 Project has been implemented with .Net core 2.0
 
 Solution has 3 projects named
-1. RoversMovement
-2. Models
-3. XUnitTestRoverMovement
+1. RoversMovement - Service layer having business logic
+2. Models - having Entity classes
+3. XUnitTestRoverMovement - having Test methods
 
 Created 3 unit test cases with below inputs for success scenarios
 
